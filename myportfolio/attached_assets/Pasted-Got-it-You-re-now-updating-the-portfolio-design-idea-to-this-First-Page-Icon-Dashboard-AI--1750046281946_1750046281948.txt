@@ -1,0 +1,186 @@
+Got it! You're now updating the portfolio design idea to this:
+
+> ✅ First Page = Icon Dashboard (AI/ML concept icons)
+✅ On Click = Navigate to a New Page
+Each page should focus on a specific concept/section (e.g., Skills, Projects, Certificates).
+
+
+
+Here’s your updated full prompt for RepKit or your developer:
+
+
+---
+
+🎯 Updated Prompt for AI/ML-Themed Multi-Page Portfolio (For RepKit)
+
+
+---
+
+🧠 Project Overview:
+
+Build a multi-page portfolio website themed around the AI/ML lifecycle, where:
+
+The homepage shows AI/ML concept icons (EDA, Modeling, etc.)
+
+Each icon navigates to a dedicated new page (e.g., eda.html, modeling.html, etc.)
+
+Each page showcases a different section of my resume/profile with interactive design
+
+
+
+---
+
+🌐 Pages Overview
+
+Icon/Concept	Target Page	Page Content (from Resume)
+
+📊 EDA	eda.html	Resume summary: name, education, profile snapshot
+🧪 Feature Engineering	features.html	Technical skills, tools, languages
+🧠 Modeling	modeling.html	Projects: RESUMATCH, Titanic App, etc.
+🧾 Evaluation	evaluation.html	Certificates, achievements, model accuracies
+🚀 Deployment	deployment.html	GitHub, LinkedIn, deployed project links
+
+
+
+---
+
+🖼️ Homepage (index.html)
+
+Display 5 large, AI-themed concept icons (in grid or flex layout)
+
+Each icon labeled (EDA, Modeling, etc.)
+
+On click, navigate to respective page (use routing with <a href="modeling.html"> or JS)
+
+Add hover animations or tooltips like:
+
+“📊 EDA — Resume Overview”
+
+“🧠 Modeling — My ML Projects”
+
+
+
+
+---
+
+📄 Page Content Details
+
+✅ eda.html – Resume Summary
+
+Name, email, phone, LinkedIn, GitHub
+
+Education (CGPA, 10th, 12th scores)
+
+Short personal intro (1-2 lines)
+
+
+✅ features.html – Technical Skills
+
+Programming languages: Python, Java, C++
+
+Web: HTML, CSS, JavaScript
+
+Databases: SQL Server
+
+Tools: Git, VS Code, Figma, Azure
+
+Soft skills: Critical thinking, leadership
+
+
+✅ modeling.html – Projects
+
+RESUMATCH: BERT-based job matching
+
+Accident Alert: Android + GSM/GPS
+
+E-Library App
+
+Titanic Survival Predictor:
+
+ML model (logistic regression)
+
+Accuracy: 81%
+
+Stack: Pandas, Sklearn, Python
+
+
+
+Each project shows: title, description, tech used, optional live/GitHub link
+
+✅ evaluation.html – Achievements
+
+Certificates:
+
+AI-900 Azure
+
+GDSC Hackathon
+
+V-Nest Makeathon
+
+
+Model performance (Titanic 81%, ResumeMatch ~85%)
+
+Academic performance + leadership highlights
+
+Optional: Show as metric cards or list
+
+
+✅ deployment.html – Links
+
+GitHub: https://github.com/TANUJNAG
+
+RESUMATCH live: https://ml-project-lsws.onrender.com
+
+LinkedIn: https://www.linkedin.com/in/tanuj-nag-10b186278/
+
+(If hosted) Titanic App link
+
+
+
+---
+
+🎨 Design Requirements
+
+Consistent AI-themed style across pages:
+
+Fonts: Inter or Poppins
+
+Colors: Blue, grey, dark mode options
+
+Animated transitions when pages change (fade or slide)
+
+
+Responsive on mobile/tablet
+
+Footer on each page with social links
+
+
+
+---
+
+🧾 Deliverables
+
+Multi-page website:
+
+index.html, eda.html, features.html, modeling.html, evaluation.html, deployment.html
+
+
+CSS styles + JavaScript interactions
+
+Icons folder with AI/ML-themed icons
+
+Deployed via GitHub Pages or Netlify
+
+
+
+---
+
+Would you also like me to:
+
+Generate the HTML page structure as a starting point?
+
+Or create a Figma design preview?
+
+
+Let me know!
+
